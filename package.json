@@ -1,6 +1,6 @@
 {
   "name": "biome-plugin-no-use-effect",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Biome linter plugin that disallows direct useEffect calls in React components.",
   "license": "MIT",
   "author": "Victor-Mihai Patru",
