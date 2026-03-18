@@ -9,6 +9,16 @@
     "url": "https://github.com/victorpatru/biome-plugin-no-use-effect.git"
   },
   "homepage": "https://github.com/victorpatru/biome-plugin-no-use-effect#readme",
+  "keywords": [
+    "biome",
+    "biome-plugin",
+    "gritql",
+    "react",
+    "useEffect",
+    "linter",
+    "lint",
+    "plugin"
+  ],
   "type": "commonjs",
   "files": [
     "no-use-effect.grit",
